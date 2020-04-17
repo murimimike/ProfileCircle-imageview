@@ -1,0 +1,3 @@
+rootProject.name='CircularImageView'
+include ':app'
+include ':circularimageview'
